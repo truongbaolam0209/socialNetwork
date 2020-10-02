@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://truongbaolam0209:lam1234567890@socialnetwork-ryobp.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "HUB7F5G8RVCX99M0VV409HBVCZZSE58209N98B7FF60JJ431J9F6D4S4"
+}

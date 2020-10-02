@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: segoe ui;
+  font-size: 16px;
+}
+
+:root {
+  --color-primary: #34495e;
+  --color-secondary: #455a6e;
+
+  --grey-0: rgb(204, 204, 204);
+  --grey-1: grey;
+  --grey-2: rgb(238, 238, 238);
+
+  --pink-1: #e84393;
+
+
+
+
+
+}
